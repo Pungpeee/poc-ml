@@ -1,0 +1,66 @@
+variables:
+  PROJECT_NAME: "${CI_PROJECT_NAME}"
+  BRANCH: "${CI_COMMIT_REF_NAME}"
+  COMMIT_ID: "${CI_COMMIT_SHA}"
+  GIT_CLONE_PATH: $CI_BUILDS_DIR/$project_name
+
+before_script:
+  - echo "$PROJECT_NAME $BRANCH $COMMIT_ID"
+  - export git_Build_id=$(echo $COMMIT_ID | cut -c1-8)
+  - export build_time=$(date +"%D %T")
+
+stages:
+  - dev-build
+  - dev-deploy
+  - uat-build
+  - uat-deploy
+  - prod-build
+  - prod-deploy
+
+# -------------------------------- DEV --------------------------------
+
+dev-build:
+  stage: dev-build
+  only:
+    - dev
+  tags:
+    - arm
+    - azure
+    - nonprod
+    - vm
+  environment:
+    name: development
+    url: https://ocr-ml-dev.vekin.co.th
+  variables:
+    git_Build_id: $(echo $git_Build_id)
+  script:
+    - echo "{\"build\":\"$build_time\",\"repo\":\"$PROJECT_NAME\",\"branch\":\"$BRANCH\",\"commit_id\":\"$git_Build_id\"}" >> ${PWD}/build.json
+    - docker build -f deployment/Dockerfile.dev
+      -t vekin/gr-ocr-ml-dev:$git_Build_id .
+    - docker image rm -f vekin/gr-ocr-ml-dev:$git_Build_id
+    - docker image rm -f vekin/gr-ocr-ml-dev:latest
+    - docker build -f deployment/Dockerfile.dev
+      -t vekin/gr-ocr-ml-dev:latest .
+
+dev-deploy:
+  stage: dev-deploy
+  only:
+    - dev
+  tags:
+    - arm
+    - azure
+    - nonprod
+    - vm
+  environment:
+    name: development
+    url: https://ocr-ml-dev.vekin.co.th
+  script:
+    # - docker stop gr-ocr-ml-dev
+    # - docker rm gr-ocr-ml-dev
+    - docker run -d
+      --env-file $ENV_FILE
+      --restart=always
+      -p 5000:5000
+      -v /mnt/ocr/dev/weights:/src/weights/
+      --name gr-ocr-ml-dev
+      vekin/gr-ocr-ml-dev:latest

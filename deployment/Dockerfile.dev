@@ -1,0 +1,48 @@
+FROM python:3.8.1-slim
+
+RUN apt-get update
+RUN apt-get install -y software-properties-common
+
+RUN apt-get install -y \
+    python3-pip python3-dev python3-setuptools \
+    --no-install-recommends
+
+RUN apt-get update && apt-get install gettext nano vim -y
+RUN pip3 install --upgrade pip
+# RUN pip install --upgrade pip
+
+RUN apt-get install ffmpeg libsm6 libxext6  -y
+RUN apt-get install -y cron
+
+WORKDIR /src
+COPY . /src
+
+ENV PYTHONDONTWRITEBYTECODE=1
+ENV PYTHONUNBUFFERED=1
+
+# RUN apt-get install apt-utils
+# RUN apt-get install cmake -y
+
+COPY requirements.txt requirements.txt
+
+RUN pip3 install -r requirements.txt
+# RUN apt install tesseract-ocr -y
+
+# Install Tesseract
+RUN apt update
+RUN apt install apt-transport-https
+RUN apt-get install --force-yes libpcre2-8-0 wget
+RUN tee /etc/apt/sources.list.d/notesalexp.list<<EOF
+RUN add-apt-repository "deb https://notesalexp.org/tesseract-ocr5/$(lsb_release -cs)/ $(lsb_release -cs) main"
+RUN apt-get install gnupg -y
+RUN apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys A4BCBD87CEF9E52D
+RUN wget -O - https://notesalexp.org/debian/alexp_key.asc | apt-key add -
+RUN apt update
+RUN apt install tesseract-ocr -y
+
+RUN echo "Asia/Bangkok" > /etc/timezone && rm /etc/localtime && dpkg-reconfigure -f noninteractive tzdata
+
+EXPOSE 5000
+
+# CMD ["python3", "-m" , "flask", "run", "--host=0.0.0.0"]
+CMD ["python", "app.py"]

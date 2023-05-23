@@ -1,0 +1,2705 @@
+{"product":[
+        {
+            "product_name": "ฟิล์มยืดถนอมอาหาร เอ็ม แรป หน้ากว้าง 30 ซม. ยาว 30 ม.",
+            "carbon_fact": "",
+            "CO2e": "",
+            "barcode": "8850919224217",
+            "cero_earn": "",
+            "label_type": "Gold",
+            "saved_carbon": "",
+            "saving_units": ""
+        },
+        {
+            "product_name": "ฟิล์มยืดถนอมอาหาร เอ็ม แรป หน้ากว้าง 30 ซม. ยาว 60 ม.",
+            "carbon_fact": "",
+            "CO2e": "",
+            "barcode": "8850919100016",
+            "cero_earn": "",
+            "label_type": "Gold",
+            "saved_carbon": "",
+            "saving_units": ""
+        },
+        {
+            "product_name": "เค้กเนยสด (ตรา เอส แอนด์ พี) ขนาด 300 กรัม",
+            "carbon_fact": 2.35,
+            "CO2e": "kgCO2e",
+            "barcode": "8850231000254",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เค้กช็อกโกแลตมาเบิ้ล (ตรา เอส แอนด์ พี) ขนาด 300 กรัม",
+            "carbon_fact": 2.36,
+            "CO2e": "kgCO2e",
+            "barcode": "8850231000261",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เค้กกล้วยหอม",
+            "carbon_fact": 209,
+            "CO2e": "gCO2e",
+            "barcode": "8850231001190",
+            "cero_earn": 0.04,
+            "label_type": "Gold",
+            "saved_carbon": 0.00418,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "คัพมาม่าต้มยำกุ้ง น้ำหนักสุทธิ 60 กรัม",
+            "carbon_fact": 232,
+            "CO2e": "gCO2e",
+            "barcode": "8850987145353",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "ข้าวต้มคัพ ข้าวต้มกึ่งสำเร็จรูปรสกุ้งกระเทียม ตรามาม่า",
+            "carbon_fact": 434,
+            "CO2e": "gCO2e",
+            "barcode": "8851876205110",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เส้นหมี่กึ่งสำเร็จรูปเย็นตาโฟ ตรามาม่า 55 กรัม",
+            "carbon_fact": 217,
+            "CO2e": "gCO2e",
+            "barcode": "8850987201172",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เส้นหมี่กึ่งสำเร็จรูปรสเย็นตาโฟต้มยำหม้อไฟ ตรามาม่า 55 กรัม",
+            "carbon_fact": 212,
+            "CO2e": "gCO2e",
+            "barcode": "8851876200467",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เส้นหมี่กึ่งสำเร็จรูปน้ำใส ตรามาม่า น้ำหนักสุทธิ 55 กรัม",
+            "carbon_fact": 270,
+            "CO2e": "gCO2e",
+            "barcode": "8850987201295",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "บะหมี่กึ่งสำเร็จรูปรสต้มยำกุ้ง ตรามาม่า (ซอง) 55 กรัม",
+            "carbon_fact": 175,
+            "CO2e": "g",
+            "barcode": "8850987128301",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "บะหมี่กึ่งสำเร็จรูปรสหมูสับ ตรามาม่า (ซอง) 60 กรัม",
+            "carbon_fact": 152,
+            "CO2e": "g",
+            "barcode": "8850987101199",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำเชื่อม 800 มิลลิลิตร",
+            "carbon_fact": 305,
+            "CO2e": "gCO2e",
+            "barcode": "8850256000703",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำตาลกรวด 500 กรัม",
+            "carbon_fact": 296,
+            "CO2e": "gCO2e",
+            "barcode": "8850256620055",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำตาลทรายขาวบริสุทธิ์ ตรา มิตรผล บรรจุถุง LDPE ขนาดบรรจุ 1 กิโลกรัม",
+            "carbon_fact": 346,
+            "CO2e": "g",
+            "barcode": "2901525260277",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำตาลทรายขาวบริสุทธิ์มิตรผล T1",
+            "carbon_fact": 399,
+            "CO2e": "kgCO2e",
+            "barcode": "8850256100137",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำตาลทรายขาวบริสุทธิ์มิตรผล T1",
+            "carbon_fact": 483,
+            "CO2e": "kgCO2e",
+            "barcode": "8850256100113",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำตาลทรายขาวบริสุทธิ์มิตรผล T1",
+            "carbon_fact": 20.1,
+            "CO2e": "kgCO2e",
+            "barcode": "8850256100106",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำตาลอ้อยธรรมชาติตรามิตรผล",
+            "carbon_fact": 19.5,
+            "CO2e": "kgCO2e",
+            "barcode": "8850256513333",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำตาลอ้อยธรรมชาติ ตรามิตรผล ขนาด 1 กิโลกรัม 1 ถุง",
+            "carbon_fact": 416,
+            "CO2e": "g",
+            "barcode": "8850256510066",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เครื่องแกงส้ม",
+            "carbon_fact": 87,
+            "CO2e": "gCO2e",
+            "barcode": "8857123089243",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำตาลอ้อยธรรมชาติ ตราลิน 1 kg (จำหน่ายในประเทศ)",
+            "carbon_fact": 436,
+            "CO2e": "gCO2e",
+            "barcode": "8859296300804",
+            "cero_earn": 0.09,
+            "label_type": "Gold",
+            "saved_carbon": 0.00872,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันปาล์มโอเลอินจากเนื้อปาล์มผ่านกรรมวิธี ตราผึ้ง ชนิดขวด PET ขนาด 1 ลิตร",
+            "carbon_fact": 732,
+            "CO2e": "gCO2e",
+            "barcode": "8858741400069",
+            "cero_earn": 0.15,
+            "label_type": "Gold",
+            "saved_carbon": 0.01464,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันปาล์มโอเลอินจากเนื้อปาล์มผ่านกรรมวิธี ตรา ทับทิม บรรจุขวด PET ขนาด 1 ลิตร",
+            "carbon_fact": 1.12,
+            "CO2e": "kgCO2e",
+            "barcode": "8858776300259",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันปาล์มโอเลอินจากเนื้อปาล์มผ่านกรรมวิธี ตรา ทับทิม บรรจุขวด PET ขนาด 750 มิลลิลิตร",
+            "carbon_fact": 785,
+            "CO2e": "g",
+            "barcode": "8858776300457",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันปาล์มโอเลอิน จากเนื้อปาล์มผ่านกรรมวิธี ตราเกสร บรรจุขวด PET ปริมาตรสุทธิ 250 มิลลิลิตร",
+            "carbon_fact": 340,
+            "CO2e": "gCO2e",
+            "barcode": "8851494007561",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันปาล์มโอเลอิน จากเนื้อปาล์มผ่านกรรมวิธี ตราเกสร บรรจุขวด PET ปริมาตรสุทธิ 1 ลิตร",
+            "carbon_fact": 1.15,
+            "CO2e": "kgCO2e",
+            "barcode": "8851494007523",
+            "cero_earn": 0.23,
+            "label_type": "Gold",
+            "saved_carbon": 0.023,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันปาล์มโอเลอิน จากเนื้อปาล์มผ่านกรรมวิธี ตราเกสร บรรจุขวด PET ปริมาตรสุทธิ 2 ลิตร",
+            "carbon_fact": 2.36,
+            "CO2e": "kgCO2e",
+            "barcode": "8851494007509",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันปาล์มโอเลอินจากเนื้อปาล์มผ่านกรรมวิธี บรรจุโดยขวด PET ปริมาตรสุทธิ 250 มล.",
+            "carbon_fact": 270,
+            "CO2e": "gCO2e",
+            "barcode": "8850581111006",
+            "cero_earn": 0.05,
+            "label_type": "Gold",
+            "saved_carbon": 0.0054,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันรำข้าว 100% ผ่านกรรมวิธี บรรจุโดยขวด PET ตราหยกเอ็กซ์ตร้า",
+            "carbon_fact": 2.77,
+            "CO2e": "kgCO2e",
+            "barcode": "8850581011306",
+            "cero_earn": 0.55,
+            "label_type": "Gold",
+            "saved_carbon": 0.0554,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันถั่วเหลืองผ่านกรรมวิธี บรรจุโดยขวด PET ปริมาตรสุทธิ 1 ลิตร",
+            "carbon_fact": 592,
+            "CO2e": "gCO2e",
+            "barcode": "8850581111709",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันคาโนล่าผสมน้ำมันทานตะวันผ่านกรรมวิธีอัตราส่วน 4 : 1 (ตราเนเชอเรล) บรรจุโดยขวด PET ปริมาตรสุทธิ 1 ลิตร",
+            "carbon_fact": 2.15,
+            "CO2e": "kgCO2e",
+            "barcode": "8850581116605",
+            "cero_earn": 0.43,
+            "label_type": "Gold",
+            "saved_carbon": 0.043,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันคาโนล่า 100% ผ่านกรรมวิธี (ตราเนเชอเรล) บรรจุโดยขวด PET ปริมาตรสุทธิ 1 ลิตร",
+            "carbon_fact": 2.1,
+            "CO2e": "kgCO2e",
+            "barcode": "8850581116001",
+            "cero_earn": 0.42,
+            "label_type": "Gold",
+            "saved_carbon": 0.042,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันมะพร้าวสำหรับปรุงอาหาร 100% (ตราเนเชอเรล) บรรจุโดยขวด PET ปริมาตรสุทธิ 1 ลิตร",
+            "carbon_fact": 2.56,
+            "CO2e": "kgCO2e",
+            "barcode": "8850581116100",
+            "cero_earn": 0.51,
+            "label_type": "Gold",
+            "saved_carbon": 0.0512,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันรำข้าว 100% ผ่านกรรมวิธี (ตราเนเชอเรล) บรรจุโดยขวด PET ปริมาตรสุทธิ 1 ลิตร",
+            "carbon_fact": 2.56,
+            "CO2e": "kgCO2e",
+            "barcode": "8850581116308",
+            "cero_earn": 0.51,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันรำข้าว 100% โกลด์ ผ่านกรรมวิธี (ตราเนเชอเรลฟอร์เต้) บรรจุโดยขวด PET ปริมาตรสุทธิ 1 ลิตร",
+            "carbon_fact": 2.64,
+            "CO2e": "kgCO2e",
+            "barcode": "8850581116346",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันทานตะวัน 100% ผ่านกรรมวิธี (ตราเนเชอเรล) บรรจุโดยขวด PET ปริมาตรสุทธิ 1 ลิตร",
+            "carbon_fact": 2.7,
+            "CO2e": "kgCO2e",
+            "barcode": "8850581116209",
+            "cero_earn": 0.54,
+            "label_type": "Gold",
+            "saved_carbon": 0.054,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันข้าวโพดผ่านกรรมวิธี 100% (ตราเนเชอเรล) บรรจุโดยขวด PET ปริมาตรสุทธิ 1 ลิตร",
+            "carbon_fact": 1.69,
+            "CO2e": "kgCO2e",
+            "barcode": "8850581116407",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันมะพร้าวสำหรับปรุงอาหาร 100% (ตราหยกเอ็กซ์ตร้า) บรรจุโดยขวด PET ปริมาตรสุทธิ 1 ลิตร",
+            "carbon_fact": 2.57,
+            "CO2e": "kgCO2e",
+            "barcode": "8850581011603",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันคาโนล่า 100% ผ่านกรรมวิธี (ตราหยกเอ็กซ์ตร้า) บรรจุโดยขวด PET ปริมาตรสุทธิ 1 ลิตร",
+            "carbon_fact": 2.06,
+            "CO2e": "kgCO2e",
+            "barcode": "8850581011412",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันมะพร้าวสำหรับปรุงอาหาร 100% กลิ่นเห็ดทรัฟเฟิล (ตราเนเชอเรล) บรรจุโดยขวด PET ปริมาตรสุทธิ 1 ลิตร",
+            "carbon_fact": 2.57,
+            "CO2e": "kgCO2e",
+            "barcode": "8850581010002",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันปาล์มโอเลอินจากเนื้อปาล์มผ่านกรรมวิธี บรรจุโดยขวด PET ปริมาตรสุทธิ 500 มล.",
+            "carbon_fact": 576,
+            "CO2e": "gCO2e",
+            "barcode": "8850581111020",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันปาล์มโอเลอินจากเนื้อปาล์มผ่านกรรมวิธี บรรจุโดยขวด PET ปริมาตรสุทธิ 2 ลิตร",
+            "carbon_fact": 2.15,
+            "CO2e": "kgCO2e",
+            "barcode": "8850581111075",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันทานตะวัน 100% ผ่านกรรมวิธี บรรจุโดยขวด PET ตราหยกเอ็กซ์ตร้า ปริมาตรสุทธิ 1 ลิตร",
+            "carbon_fact": 2.16,
+            "CO2e": "gCO2e",
+            "barcode": "8850581011504",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันปาล์มโอเลอินจากเนื้อปาล์มผ่านกรรมวิธีตราหยก ชนิดขวด PET ขนาด 1 ลิตร",
+            "carbon_fact": 1.06,
+            "CO2e": "gCO2e",
+            "barcode": "8850581111044",
+            "cero_earn": 0.0,
+            "label_type": "Gold",
+            "saved_carbon": 0.000212,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันถั่วเหลืองผ่านกรรมวิธี ตราโอลีน บรรจุขวด PET 1 ลิตร",
+            "carbon_fact": 1.18,
+            "CO2e": "kgCO2e",
+            "barcode": "8850635004230",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันปาล์มโอเลอินจากเนื้อปาล์มผ่านกรรมวิธี ตรา โอลีน บรรจุขวด PET ปริมาตรสุทธิ 1 ลิตร",
+            "carbon_fact": 1.28,
+            "CO2e": "kgCO2e",
+            "barcode": "8850635001031",
+            "cero_earn": 0.26,
+            "label_type": "Gold",
+            "saved_carbon": 0.0256,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "จัมโบ้เปาไส้หมูสับ (เจด ดราก้อน) 340 g",
+            "carbon_fact": 1.1,
+            "CO2e": "kg",
+            "barcode": "8851351005259",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เกี๊ยวกุ้ง ตราเจด ดราก้อน",
+            "carbon_fact": 771,
+            "CO2e": "g",
+            "barcode": "8851351012400",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำอัดลมโคคา-โคลาบรรจุขวด PET 1.25 L",
+            "carbon_fact": 370,
+            "CO2e": "gCO2e",
+            "barcode": "8851959144015",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำอัดลมแฟนต้า กลิ่นส้มบรรจุขวด PET 1.25 L",
+            "carbon_fact": 381,
+            "CO2e": "gCO2e",
+            "barcode": "8851959144169",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำอัดลมแฟนต้า กลิ่นสตรอเบอร์รี่บรรจุขวด PET 1.25 L",
+            "carbon_fact": 390,
+            "CO2e": "gCO2e",
+            "barcode": "8851959144176",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำอัดลมแฟนต้า กลิ่นผลไม้รวมบรรจุขวด PET 1.25 L",
+            "carbon_fact": 379,
+            "CO2e": "gCO2e",
+            "barcode": "8851959144183",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำอัดลมสไปรท์บรรจุขวด PET 1.25 L",
+            "carbon_fact": 384,
+            "CO2e": "gCO2e",
+            "barcode": "8851959144367",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำอัดลมโคคา-โคลา ไม่มีน้ำตาล บรรจุขวด PET 1.25 L",
+            "carbon_fact": 300,
+            "CO2e": "gCO2e",
+            "barcode": "8851959144077",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำอัดลมโคคา-โคลาบรรจุขวด PET 1.5 L",
+            "carbon_fact": 442,
+            "CO2e": "gCO2e",
+            "barcode": "8851959143018",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำอัดลมแฟนต้า กลิ่นส้มบรรจุขวด PET 1.5 L",
+            "carbon_fact": 463,
+            "CO2e": "gCO2e",
+            "barcode": "8851959143162",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำอัดลมแฟนต้า กลิ่นสตรอเบอร์รี่บรรจุขวด PET 1.5 L",
+            "carbon_fact": 463,
+            "CO2e": "gCO2e",
+            "barcode": "8851959143179",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำอัดลมแฟนต้า กลิ่นผลไม้รวมบรรจุขวด PET 1.5 L",
+            "carbon_fact": 464,
+            "CO2e": "gCO2e",
+            "barcode": "8851959143186",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำอัดลมสไปรท์บรรจุขวด PET 1.5 L",
+            "carbon_fact": 472,
+            "CO2e": "gCO2e",
+            "barcode": "8851959143360",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำอัดลมโคคา-โคลา ไม่มีน้ำตาล บรรจุขวด PET 1.5 L",
+            "carbon_fact": 369,
+            "CO2e": "gCO2e",
+            "barcode": "8851959143070",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำอัดลมโคคา-โคลาบรรจุขวด PET 2 L",
+            "carbon_fact": 543,
+            "CO2e": "gCO2e",
+            "barcode": "8851959142011",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำดื่ม น้ำทิพย์ บรรจุขวด PET 550 ml",
+            "carbon_fact": 97.7,
+            "CO2e": "gCO2e",
+            "barcode": "8851959139714",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำดื่ม น้ำทิพย์ บรรจุขวด PET 1.5 L",
+            "carbon_fact": 213,
+            "CO2e": "gCO2e",
+            "barcode": "8851959643716",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำอัดลมโคคาโคลาบรรจุกระป๋อง CAN 325 ml",
+            "carbon_fact": 160,
+            "CO2e": "gCO2e",
+            "barcode": "8851959132012",
+            "cero_earn": 0.03,
+            "label_type": "Gold",
+            "saved_carbon": 0.0032,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำอัดลมแฟนต้า กลิ่นส้ม บรรจุกระป๋อง",
+            "carbon_fact": "150 g",
+            "CO2e": "g",
+            "barcode": "8851959132166",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำอัดลมแฟนต้า กลิ่นสตรอเบอร์รี่ บรรจุกระป๋อง",
+            "carbon_fact": "151 g",
+            "CO2e": "g",
+            "barcode": "8851959132173",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำอัดลมแฟนต้า กลิ่นผลไม้รวม บรรจุกระป๋อง",
+            "carbon_fact": "154 g",
+            "CO2e": "g",
+            "barcode": "8851959002759",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำอัดลมสไปรท์ บรรจุกระป๋อง",
+            "carbon_fact": 155,
+            "CO2e": "g",
+            "barcode": "8851959132364",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำอัดลมชเวปส์ โทนิค บรรจุกระป๋อง",
+            "carbon_fact": 168,
+            "CO2e": "g",
+            "barcode": "8851959138694",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำอัดลมโคคาโคล่าบรรจุกระป๋อง",
+            "carbon_fact": 180,
+            "CO2e": "g",
+            "barcode": "8851959108017",
+            "cero_earn": 0.04,
+            "label_type": "Gold",
+            "saved_carbon": 0.0036,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "นอน-แดรี ครีม (โคโคนัท ครีม อัลเทอเนทิฟ) (ครีมเทียมชนิดพร่องไขมัน) ขนาด 1,000 มิลลิลิตร ตราฟอร์แคร์ เทสติฟิต",
+            "carbon_fact": 877,
+            "CO2e": "gCO2e",
+            "barcode": "8857072000023",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "ข้าวหอมมะลิออร์แกนิกอบกรอบ รสต้นตำรับ ขนาด 25 กรัม ตราฟอร์แคร์บาลานซ์",
+            "carbon_fact": 328,
+            "CO2e": "gCO2e",
+            "barcode": "8857072000825",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เครื่องดื่มรังนกแท้สำเร็จรูป สูตรคลาสสิค ผสมน้ำตาลกรวด ขนาด 42 มล.",
+            "carbon_fact": 153,
+            "CO2e": "gCO2e",
+            "barcode": "8852001109747",
+            "cero_earn": 0.03,
+            "label_type": "Gold",
+            "saved_carbon": 0.00306,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เครื่องดื่มรังนกแท้สำเร็จรูป สูตรคลาสสิค ผสมน้ำตาลกรวด ขนาด 70 มล.",
+            "carbon_fact": 211,
+            "CO2e": "gCO2e",
+            "barcode": "8852001110835",
+            "cero_earn": 0.04,
+            "label_type": "Gold",
+            "saved_carbon": 0.00422,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "แบรนด์ซุปไก่สกัด สูตรต้นตำหรับ ขนาด 70 มิลลิลิตร",
+            "carbon_fact": 383,
+            "CO2e": "g",
+            "barcode": "8852001210016",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "แบรนด์ซุปไก่สกัด สูตรต้นตำรับ ขนาด 42 มิลลิลิตร",
+            "carbon_fact": 254,
+            "CO2e": "g",
+            "barcode": "8852001110019",
+            "cero_earn": 0.05,
+            "label_type": "Gold",
+            "saved_carbon": 0.00508,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "แบรนด์วีต้า เบอร์รี่สกัดเข้มข้น ขนาด 42 มิลลิลิตร",
+            "carbon_fact": 202,
+            "CO2e": "g",
+            "barcode": "8852001128519",
+            "cero_earn": 0.04,
+            "label_type": "Gold",
+            "saved_carbon": 0.00404,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "แบรนด์เครื่องดื่มรังนกแท้สำเร็จรูปสูตรไซลิทอล ขนาด 42 มิลลิลิตร",
+            "carbon_fact": 155,
+            "CO2e": "g",
+            "barcode": "8852001109778",
+            "cero_earn": 0.03,
+            "label_type": "Gold",
+            "saved_carbon": 0.0031,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "แบรนด์เครื่องดื่มรังนกแท้สำเร็จรูปสูตรไซลิทอล ขนาด 70 มิลลิลิตร",
+            "carbon_fact": 194,
+            "CO2e": "g",
+            "barcode": "8852001326519",
+            "cero_earn": 0.04,
+            "label_type": "Gold",
+            "saved_carbon": 0.00388,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เครื่องดื่มน้ำอัดลม เอส เพลย์ กลิ่นส้ม บรรจุขวดแก้ว ขนาด 330 มิลลิลิตร (โรงงานนครสวรรค์)",
+            "carbon_fact": 115,
+            "CO2e": "gCO2e",
+            "barcode": "8851952120306",
+            "cero_earn": 0.02,
+            "label_type": "Gold",
+            "saved_carbon": 0.0023,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำดื่มคริสตัล บรรจุขวด PET ขนาด 350 มิลลิลิตร (โรงงานสุราษฎร์ธานี)",
+            "carbon_fact": 81.9,
+            "CO2e": "gCO2e",
+            "barcode": "8851952150174",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำดื่มคริสตัล บรรจุขวด PET ขนาด 600 มิลลิลิตร (โรงงานสุราษฎร์ธานี)",
+            "carbon_fact": 113,
+            "CO2e": "gCO2e",
+            "barcode": "8851952350161",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำดื่มคริสตัล บรรจุขวด PET ขนาด 1.5 ลิตร (โรงงานสุราษฎร์ธานี)",
+            "carbon_fact": 212,
+            "CO2e": "gCO2e",
+            "barcode": "8851952350147",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เครื่องดื่มน้ำอัดลม เอส โคล่า บรรจุกระป๋อง ขนาด 250 มิลลิลิตร (โรงงานปทุมธานี)",
+            "carbon_fact": 159,
+            "CO2e": "gCO2e",
+            "barcode": "8851952101312",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เครื่องดื่มน้ำอัดลม เอส เพลย์ กลิ่นส้ม บรรจุกระป๋อง ขนาด 250 มิลลิลิตร (โรงงานปทุมธานี)",
+            "carbon_fact": 143,
+            "CO2e": "gCO2e",
+            "barcode": "8851952120313",
+            "cero_earn": 0.03,
+            "label_type": "Gold",
+            "saved_carbon": 0.00286,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เครื่องดื่มน้ำอัดลม เอส เพลย์ กลิ่นสตรอว์เบอร์รี่ บรรจุกระป๋อง ขนาด 250 มิลลิลิตร (โรงงานปทุมธานี)",
+            "carbon_fact": 143,
+            "CO2e": "gCO2e",
+            "barcode": "8851952122317",
+            "cero_earn": 0.03,
+            "label_type": "Gold",
+            "saved_carbon": 0.00286,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เครื่องดื่มน้ำอัดลม เอส เพลย์ กลิ่นครีมโซดา บรรจุกระป๋อง ขนาด 250 มิลลิลิตร (โรงงานปทุมธานี)",
+            "carbon_fact": 150,
+            "CO2e": "gCO2e",
+            "barcode": "8851952121310",
+            "cero_earn": 0.03,
+            "label_type": "Gold",
+            "saved_carbon": 0.003,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เครื่องดื่มน้ำอัดลม เอส เพลย์ กลิ่นเกรปเบอร์รี่ บรรจุกระป๋อง ขนาด 250 มิลลิลิตร (โรงงานปทุมธานี)",
+            "carbon_fact": 150,
+            "CO2e": "gCO2e",
+            "barcode": "8851952124311",
+            "cero_earn": 0.03,
+            "label_type": "Gold",
+            "saved_carbon": 0.003,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เครื่องดื่มน้ำอัดลม เอส เพลย์ กลิ่นเลมอนไลม์ บรรจุกระป๋อง ขนาด 250 มิลลิลิตร (โรงงานปทุมธานี)",
+            "carbon_fact": 146,
+            "CO2e": "gCO2e",
+            "barcode": "8851952110314",
+            "cero_earn": 0.03,
+            "label_type": "Gold",
+            "saved_carbon": 0.00292,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เครื่องดื่มซาสี่ บรรจุขวดแก้ว CoolHand ขนาด 250 มิลลิลิตร (โรงงานปทุมธานี)",
+            "carbon_fact": 236,
+            "CO2e": "gCO2e",
+            "barcode": "SARSI COOL HAND 250ML.",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำดื่มคริสตัล บรรจุขวด PET ขนาด 600 มิลลิลิตร",
+            "carbon_fact": 106,
+            "CO2e": "gCO2e",
+            "barcode": "8851959439715",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำอัดลมเอสโคล่าบรรจุขวด PET ขนาด 515 มิลลิลิตร",
+            "carbon_fact": 264,
+            "CO2e": "gCO2e",
+            "barcode": "8851952101237",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เครื่องดื่มเอส เพลย์ น้ำหวานกลิ่นองุ่น ผสมราสเบอร์รี ขนาด 515 มิลลิลิตร",
+            "carbon_fact": 271,
+            "CO2e": "gCO2e",
+            "barcode": "8851952124236",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำอัดลมเอสโคล่าบรรจุขวด PET ขนาด 1.6 ลิตร",
+            "carbon_fact": 598,
+            "CO2e": "gCO2e",
+            "barcode": "8851952101145",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เครื่องดื่มเอส เพลย์ น้ำหวานกลิ่นส้ม บรรจุขวด PET ขนาด 1.6 ลิตร",
+            "carbon_fact": 620,
+            "CO2e": "gCO2e",
+            "barcode": "8851952113148",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เครื่องดื่มเอส เพลย์ น้ำหวานกลิ่นสตรอเบอร์รี บรรจุขวด PET ขนาด 1.6 ลิตร",
+            "carbon_fact": 626,
+            "CO2e": "gCO2e",
+            "barcode": "8851952122140",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เครื่องดื่มเอส เพลย์ น้ำหวานกลิ่นครีมโซดา บรรจุขวด PET ขนาด 1.6 ลิตร",
+            "carbon_fact": 627,
+            "CO2e": "gCO2e",
+            "barcode": "8851952114145",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เครื่องดื่มเอส เพลย์ น้ำหวานกลิ่นเลม่อนไลม์ บรรจุขวด PET ขนาด 1.6 ลิตร",
+            "carbon_fact": 624,
+            "CO2e": "gCO2e",
+            "barcode": "8851952116149",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เครื่องดื่มเอส เพลย์ น้ำหวานกลิ่นองุ่น ผสมราสเบอร์รี บรรจุขวด PET ขนาด 1 ลิตร",
+            "carbon_fact": 488,
+            "CO2e": "gCO2e",
+            "barcode": "8851952124076",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เครื่องดื่มเอส เพลย์ น้ำหวานกลิ่นองุ่น ผสมราสเบอร์รี บรรจุขวด PET ขนาด 1.6 ลิตร",
+            "carbon_fact": 659,
+            "CO2e": "gCO2e",
+            "barcode": "8851952124144",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เครื่องดิ่มเอส เพลย์ น้ำหวานกลิ่นส้ม บรรจุขวด PET ขนาด 1 ลิตร",
+            "carbon_fact": 469,
+            "CO2e": "gCO2e",
+            "barcode": "8851952120078",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำอัดลมเอสโคล่าบรรจุขวด PET ขนาด 515 มิลลิลิตร",
+            "carbon_fact": 262,
+            "CO2e": "gCO2e",
+            "barcode": "8851952101237",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำอัดลมเอสโคล่าบรรจุกระป๋อง ขนาด 250 มิลลิลิตร",
+            "carbon_fact": 134,
+            "CO2e": "g",
+            "barcode": "8851952101015",
+            "cero_earn": 0.03,
+            "label_type": "Gold",
+            "saved_carbon": 0.00268,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำอัดลมเอสเพลย์ กลิ่นสตรอเบอร์รี่ บรรจุกระป๋อง ขนาด 250 มิลลิลิตร",
+            "carbon_fact": 141,
+            "CO2e": "g",
+            "barcode": "8851952115012",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำชาเขียวญี่ปุ่น รสข้าวญี่ปุ่น ตราโออิชิกรีนที บรรจุขวดพีอีที 500 ลบ.ซม",
+            "carbon_fact": 360,
+            "CO2e": "gCO2e",
+            "barcode": "8854698005289",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เครื่องดื่มชาเขียวสไตล์ญี่ปุ่น กลิ่นองุ่นเคียวโฮ ผสมวุ้นมะพร้าว ตราโออิชิกรีนที บรรจุขวดพีอีที 380 ลบ.ซม.",
+            "carbon_fact": 359,
+            "CO2e": "gCO2e",
+            "barcode": "8854698012714",
+            "cero_earn": 0.07,
+            "label_type": "Gold",
+            "saved_carbon": 0.00718,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำชาเขียวญี่ปุ่น รสน้ำผึ้งผสมมะนาว ตราโออิชิกรีนที บรรจุขวดพีอีที 380 ลบ.ซม.",
+            "carbon_fact": 272,
+            "CO2e": "gCO2e",
+            "barcode": "8854698009669",
+            "cero_earn": 0.05,
+            "label_type": "Gold",
+            "saved_carbon": 0.00544,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "นมปรุงแต่ง ยูเอชที รสช็อกโกแลต ตราไทย-เดนมาร์ค ขนาด 200 มิลลิลิตร",
+            "carbon_fact": 655,
+            "CO2e": "gCO2e",
+            "barcode": "8852537013167",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำนมโค ยูเอชที ตราไทย-เดนมาร์ค ขนาด 250 มิลลิลิตร",
+            "carbon_fact": 410,
+            "CO2e": "gCO2e",
+            "barcode": "8852537011262",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำนมโค ยูเอชที ตราไทย-เดนมาร์ค ขนาด 200 มิลลิลิตร",
+            "carbon_fact": 327,
+            "CO2e": "gCO2e",
+            "barcode": "8852537011163",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "นมปรุงแต่ง ยูเอชที รสหวาน ตราไทย-เดนมาร์ค ขนาด 250 มิลลิลิตร",
+            "carbon_fact": 410,
+            "CO2e": "gCO2e",
+            "barcode": "8852537012269",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันปาล์มโอเลอินจากเนื้อปาล์มผ่านกรรมวิธี บรรจุขวด ขนาด 250 มิลลิลิตร",
+            "carbon_fact": 328,
+            "CO2e": "gCO2e",
+            "barcode": "8850154000027",
+            "cero_earn": 0.07,
+            "label_type": "Gold",
+            "saved_carbon": 0.00656,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันปาล์มโอเลอินจากเนื้อปาล์มผ่านกรรมวิธี บรรจุขวด ขนาด 1 ลิตร",
+            "carbon_fact": 1.14,
+            "CO2e": "kgCO2e",
+            "barcode": "8850154020186",
+            "cero_earn": 0.23,
+            "label_type": "Gold",
+            "saved_carbon": 0.0228,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันปาล์มโอเลอินจากเนื้อปาล์มผ่านกรรมวิธี บรรจุขวด ขนาด 2 ลิตร",
+            "carbon_fact": 2.23,
+            "CO2e": "kgCO2e",
+            "barcode": "8850154000065",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันถั่วเหลืองผ่านกรรมวิธี บรรจุขวด ขนาด 1 ลิตร",
+            "carbon_fact": 716,
+            "CO2e": "gCO2e",
+            "barcode": "8850154051043",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันถั่วเหลืองผ่านกรรมวิธี บรรจุขวด ขนาด 1.9 ลิตร",
+            "carbon_fact": 1.33,
+            "CO2e": "kgCO2e",
+            "barcode": "8850154051050",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันผสมผ่านกรรมวิธี บรรจุขวด ขนาด 1 ลิตร ตรา มรกต ไลท์",
+            "carbon_fact": 972,
+            "CO2e": "gCO2e",
+            "barcode": "8850154020377",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันรำข้าวผ่านกรรมวิธี บรรจุขวด ขนาด 1 ลิตร",
+            "carbon_fact": 2.49,
+            "CO2e": "kgCO2e",
+            "barcode": "8850154020452",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันผสมผ่านกรรมวิธี นิวทริเบลนด์ คุ้กกิ้ง ออยล์ ตราเอ็มเมอรัล บรรจุขวด ขนาด 1 ลิตร",
+            "carbon_fact": 1.7,
+            "CO2e": "kgCO2e",
+            "barcode": "8850154020186",
+            "cero_earn": 0.34,
+            "label_type": "Gold",
+            "saved_carbon": 0.034,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันข้าวโพดผ่านกรรมวิธี ตราโกลเด้นดร็อป บรรจุขวด ขนาด 1 ลิตร",
+            "carbon_fact": 1.33,
+            "CO2e": "kgCO2e",
+            "barcode": "8850154020421",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันเมล็ดดอกทานตะวัน บรรจุขวด ขนาด 1 ลิตร",
+            "carbon_fact": 2.08,
+            "CO2e": "kgCO2e",
+            "barcode": "8850154071041",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำแร่ธรรมชาติตราช้าง บรรจุขวดพีอีที ขนาด 460 ลบ.ซม.",
+            "carbon_fact": 110,
+            "CO2e": "gCO2e",
+            "barcode": "8851994831017",
+            "cero_earn": 0.02,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำดื่มตราคริสตัล บรรจุขวด พีอีที ขนาด 600 ลูกบาศก์เซนติเมตร",
+            "carbon_fact": 142,
+            "CO2e": "gCO2e",
+            "barcode": "8851952350161",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำดื่มตราช้าง บรรจุขวดพีอีที ขนาด 1,500 ลบ.ซม.",
+            "carbon_fact": 247,
+            "CO2e": "gCO2e",
+            "barcode": "8851993339033",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันมะพร้าวบริสุทธิ์ ชาวเกาะ บรรจุขวด 200 ml (ขายในประเทศ)",
+            "carbon_fact": 384,
+            "CO2e": "gCO2e",
+            "barcode": "8850367991822",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันมะพร้าวบริสุทธิ์ ชาวเกาะ บรรจุขวด 400 ml (ขายในประเทศ)",
+            "carbon_fact": 726,
+            "CO2e": "gCO2e",
+            "barcode": "8850367991839",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "มะพร้าวอบกรอบรส BACON-CHEESE ขนาด 40 กรัม ตราชาวเกาะ",
+            "carbon_fact": 159,
+            "CO2e": "gCO2e",
+            "barcode": "8850367993147",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "มะพร้าวอบกรอบรส ORIGINALขนาด 40 กรัม ตราชาวเกาะ",
+            "carbon_fact": 157,
+            "CO2e": "gCO2e",
+            "barcode": "8850367993123",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "มะพร้าวอบกรอบรส SOUR CREAM ขนาด 40 กรัม ตราชาวเกาะ",
+            "carbon_fact": 157,
+            "CO2e": "gCO2e",
+            "barcode": "8850367993130",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "กะทิน้ำสำเร็จรูป พาสเจอร์ไรส์ บรรจุในถุงพลาสติก ไขมัน 17-18 % ปริมาตรสุทธิ 500 มิลลิลิตร ตราชาวเกาะ",
+            "carbon_fact": 110,
+            "CO2e": "gCO2e",
+            "barcode": "8850367100057",
+            "cero_earn": 0.02,
+            "label_type": "Gold",
+            "saved_carbon": 0.0022,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "กะทิน้ำสำเร็จรูป พาสเจอร์ไรส์ บรรจุในถุงพลาสติก ไขมัน 17-18 % ปริมาตรสุทธิ 1,000 มิลลิลิตร ตราชาวเกาะ",
+            "carbon_fact": 205,
+            "CO2e": "gCO2e",
+            "barcode": "8850367100040",
+            "cero_earn": 0.04,
+            "label_type": "Gold",
+            "saved_carbon": 0.0041,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "กะทิน้ำสำเร็จรูป สเตอริไรส์ บรรจุในกระป๋องพิมพ์สี ไขมัน 17-18 % ปริมาตรสุทธิ 400 มิลลิลิตร ตราชาวเกาะ",
+            "carbon_fact": 284,
+            "CO2e": "g",
+            "barcode": "8850367100071",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "กะทิน้ำสำเร็จรูป สเตอริไรส์ บรรจุในกระป๋อง พิมพ์สี ไขมัน 17-18 % ปริมาตรสุทธิ 165 มิลลิลิตร ตราชาวเกาะ",
+            "carbon_fact": 126,
+            "CO2e": "g",
+            "barcode": "8850367100064",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "กะทิผงชาวเกาะ ขนาด 60 กรัม (ขายในประเทศ)",
+            "carbon_fact": 188,
+            "CO2e": "g",
+            "barcode": "8850367100088",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "พริกแกงเผ็ดแดง ตรา แม่พลอย ขนาด 400 กรัม",
+            "carbon_fact": 443,
+            "CO2e": "g",
+            "barcode": "8850367300105",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "ข้าว กข 43 บรรจุถุง ตราฉัตรไลท์ ขนาด 5 กิโลกรัม",
+            "carbon_fact": 2.47,
+            "CO2e": "kgCO2e",
+            "barcode": "8858868802036",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำอัดลมบรรจุกระป๋อง ยี่ห้อ เป็ปซี่ 245 ml",
+            "carbon_fact": 177,
+            "CO2e": "gCO2e",
+            "barcode": "8858998581139",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันถั่วเหลืองผ่านกรรมวิธี ตรา กุ๊ก ขวด 1 ลิตร",
+            "carbon_fact": 620,
+            "CO2e": "gCO2e",
+            "barcode": "8850132015432",
+            "cero_earn": 0.12,
+            "label_type": "Gold",
+            "saved_carbon": 0.0124,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันถั่วเหลืองผ่านกรรมวิธี ตรา กุ๊ก ขวด 1.9 ลิตร",
+            "carbon_fact": 1.35,
+            "CO2e": "kgCO2e",
+            "barcode": "8850132022478",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันดอกทานตะวันผ่านกรรมวิธี ตรา กุ๊ก ขวด 1 ลิตร",
+            "carbon_fact": 579,
+            "CO2e": "gCO2e",
+            "barcode": "8850132020863",
+            "cero_earn": 0.12,
+            "label_type": "Gold",
+            "saved_carbon": 0.01158,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำตาลทรายขาวบริสุทธิ์ ตราลิน 1 กิโลกรัม",
+            "carbon_fact": 357,
+            "CO2e": "gCO2e",
+            "barcode": "8859296300040",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำตาลทองธรรมชาติ ตราลิน 1 กิโลกรัม",
+            "carbon_fact": 414,
+            "CO2e": "gCO2e",
+            "barcode": "8859296301016",
+            "cero_earn": 0.08,
+            "label_type": "Gold",
+            "saved_carbon": 0.00828,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เบียร์ช้างคลาสสิก 1 ขวด 320 ลูกบาศก์เซนติเมตร",
+            "carbon_fact": 406,
+            "CO2e": "g",
+            "barcode": "8851993613010",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันถั่วเหลืองผ่านกรรมวิธี ตราองุ่นบรรจุขวด ขนาด 1000 มิลลิลิตร",
+            "carbon_fact": 664,
+            "CO2e": "gCO2e",
+            "barcode": "8850210000039",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำมันถั่วเหลืองผ่านกรรมวิธี ตราองุ่นบรรจุขวด ขนาด 1900 มิลลิลิตร",
+            "carbon_fact": 1.25,
+            "CO2e": "kgCO2e",
+            "barcode": "8850210000046",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "คนอร์ (ซุปรสไก่ก้อน) 1 กล่อง น้ำหนักสุทธิ 120 กรัม",
+            "carbon_fact": 159,
+            "CO2e": "g",
+            "barcode": "8850144206583",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำตาลเบเกอรี่ ตราลิน",
+            "carbon_fact": 380,
+            "CO2e": "g",
+            "barcode": "8859296300040",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เส้นหมี่อบแห้ง เครื่องหมายการค้าจดทะเบียน ไวไว ขนาด 180 กรัม",
+            "carbon_fact": 805,
+            "CO2e": "gCO2e",
+            "barcode": "8850100206039",
+            "cero_earn": 0.16,
+            "label_type": "Gold",
+            "saved_carbon": 0.0161,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เส้นหมี่อบแห้ง เครื่องหมายการค้าจดทะเบียน ไวไว ขนาด 500 กรัม",
+            "carbon_fact": 2.15,
+            "CO2e": "kgCO2e",
+            "barcode": "8850100207029",
+            "cero_earn": 0.43,
+            "label_type": "Gold",
+            "saved_carbon": 0.043,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "ข้าวญี่ปุ่น บรรจุถุง ตราฉัตร ขนาด 2 กิโลกรัม ต่อ 1 กิโลกรัม",
+            "carbon_fact": 2.2,
+            "CO2e": "kg",
+            "barcode": "8858868801473",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำนมถั่วเหลือง สูตรทูโกออริจินัล ตราไวตามิ้ลค์ บรรจุขวดขนาด 300 มิลลิลิตร",
+            "carbon_fact": 278,
+            "CO2e": "g",
+            "barcode": "8851028140047",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำจิ้มสุกี้กวางตุ้งบรรจุขวดแก้ว น้ำหนักสุทธิ 830 กรัม ตราพันท้ายนรสิงห์",
+            "carbon_fact": 1.49,
+            "CO2e": "kg",
+            "barcode": "8850058004831",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "สุราหงส์ทอง 35 ดีกรี ขนาดบรรจุ 700 มิลลิลิตร",
+            "carbon_fact": 1.8,
+            "CO2e": "kg",
+            "barcode": "8852388000613",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "สุราแสงโสมเหรียญทอง 40 ดีกรี ขนาดบรรจุ 700 มิลลิลิตร",
+            "carbon_fact": 3.8,
+            "CO2e": "kg",
+            "barcode": "8851707000181",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำตาลทรายใสบริสุทธิ์ ตรา ลิน",
+            "carbon_fact": 334,
+            "CO2e": "g",
+            "barcode": "8859296300019",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "ปลาแมคเคอรอลในซอสมะเขือเทศ ตราไฮคิว น้ำหนักสุทธิ 155 กรัม",
+            "carbon_fact": 227,
+            "CO2e": "g",
+            "barcode": "8850511121020",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำนมถั่วเหลือง ยูเอชที รสหวาน แลคตาซอย ขนาดบรรจุ 1,000 มิลลิลิตร",
+            "carbon_fact": 543,
+            "CO2e": "g",
+            "barcode": "8850267112822",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "ปลาแมคเคอเรลในซอสมะเขือเทศ ฝาดึง (เหลือง) ตราสามแม่ครัว บรรจุกระป๋อง",
+            "carbon_fact": 223,
+            "CO2e": "g",
+            "barcode": "8850153563059",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำตาลทรายเคลือบคาราเมล - มิตรผลโกล์ด",
+            "carbon_fact": 451,
+            "CO2e": "g",
+            "barcode": "8850256000505",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "แกงเขียวหวานทูน่าบรรจุกระป๋อง ตราซีเล็ค",
+            "carbon_fact": 578,
+            "CO2e": "g",
+            "barcode": "8852021330077",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "ผักกาดดองเปรี้ยว ตราแม่บ้าน บรรจุถุงพลาสติก 600 กรัม",
+            "carbon_fact": 533,
+            "CO2e": "g",
+            "barcode": "8857106930012",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "ซีอิ๊วขาวสูตร 1 บรรจุขวดแก้ว ปริมาตรสุทธิ 300 cc",
+            "carbon_fact": 1.4,
+            "CO2e": "kg",
+            "barcode": "8850206011124",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "ซีอิ๊วขาวสูตร 1 บรรจุขวดแก้ว ปริมาตรสุทธิ 700 cc",
+            "carbon_fact": 1.8,
+            "CO2e": "kg",
+            "barcode": "8850206011025",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "ซีอิ๊วขาวเห็ดหอม บรรจุขวดแก้ว ปริมาตรสุทธิ 300 cc",
+            "carbon_fact": 1.4,
+            "CO2e": "kg",
+            "barcode": "8850206010127",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "ซีอิ๊วขาวเห็ดหอม บรรจุขวดแก้ว ปริมาตรสุทธิ 700 cc",
+            "carbon_fact": 1.8,
+            "CO2e": "kg",
+            "barcode": "8850206250929",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำจิ้มซีฟู๊ดส์ ตรา เด็กสมบูรณ์ ขวดแก้ว ขนาด 335 กรัม",
+            "carbon_fact": 588,
+            "CO2e": "g",
+            "barcode": "8850206113101",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เครื่องปรุงสำเร็จผัดผงกะหรี่ ตรา ไอเชฟ น้ำหนักสุทธิ 50 กรัม",
+            "carbon_fact": 141,
+            "CO2e": "g",
+            "barcode": "8850206231041",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "ทูน่าชนิดก้อนในน้ำแร่บรรจุกระป๋อง ตรา ทีซีบี",
+            "carbon_fact": 283,
+            "CO2e": "g",
+            "barcode": "8850081210148",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "ปลาซาร์ดีนในซอสมะเขือเทศ ตราซีเล็ค น้ำหนักสุทธิ 155 g",
+            "carbon_fact": 255,
+            "CO2e": "g",
+            "barcode": "8850468208058",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "คนอร์ (ซุปรสหมูก้อน) 1 กล่อง น้ำหนักสุทธิ 120 กรัม",
+            "carbon_fact": 138,
+            "CO2e": "g",
+            "barcode": "8850144206590",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "คนอร์ (ซุปรสหมูก้อน) 1 กล่อง น้ำหนักสุทธิ 80 กรัม",
+            "carbon_fact": 104,
+            "CO2e": "g",
+            "barcode": "8850144206576",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "คนอร์ (ซุปรสไก่ก้อน) 1 กล่อง น้ำหนักสุทธิ 80 กรัม",
+            "carbon_fact": 111,
+            "CO2e": "g",
+            "barcode": "8850144206552",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "ซอสมะเขือเทศ บรรจุขวดแก้วขนาด 200 ml ตรา \"กู๊ดไลฟ์\"",
+            "carbon_fact": 495,
+            "CO2e": "g",
+            "barcode": "8850813200508",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำแกงมัสมั่น พร้อมปรุง บรรจุกล่อง ปริมาตรสุทธิ 250 มิลลิลิตร ตรา รอยไทย",
+            "carbon_fact": 297,
+            "CO2e": "g",
+            "barcode": "8850813503005",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "กะทิสำเร็จรูปยูเอชที 100% ตรา ชาวเกาะ 150 ml",
+            "carbon_fact": 69.4,
+            "CO2e": "g",
+            "barcode": "8850367100125",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "กะทิสำเร็จรูปยูเอชที 100% ตรา ชาวเกาะ 1,000 ml",
+            "carbon_fact": 288,
+            "CO2e": "g",
+            "barcode": "8850367100026",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "กะทิสำเร็จรูปยูเอชที 100% ตรา ชาวเกาะ 500 ml",
+            "carbon_fact": 164,
+            "CO2e": "g",
+            "barcode": "8850367100118",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำนมข้าวกล้องงอก 7 ชนิด ตรา วีฟิท",
+            "carbon_fact": 174,
+            "CO2e": "g",
+            "barcode": "8850813401042",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "กะทิ 100% ตราชาวเกาะ ปริมาตรสุทธิ 250 มิลลิลิตร",
+            "carbon_fact": 143,
+            "CO2e": "g",
+            "barcode": "8850367100019",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "ข้าวหอมมะลิ เกรด เอ ตรา ช้างคู่ 5 กิโลกรัม ชนิดข้าวใหม่",
+            "carbon_fact": 13.2,
+            "CO2e": "kg",
+            "barcode": "8853969006604",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "โยเกิร์ตผสมสตรอเบอรี่ 130 กรัม",
+            "carbon_fact": 216,
+            "CO2e": "g",
+            "barcode": "8858709100284",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "โยเกิร์ตผสมธัญพืช 130 มิลลิลิตร",
+            "carbon_fact": 209,
+            "CO2e": "g",
+            "barcode": "8858709100314",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "นมปรุงแต่งพาสเจอร์ไรส์ กลิ่นสตรอเบอรร์รี่ ขนาด 200 มิลลิลิตร",
+            "carbon_fact": 476,
+            "CO2e": "g",
+            "barcode": "8858709100048",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "นมสดพาสเจอร์ไรส์(Grass Fed Milk) 200 มิลลิลิตร",
+            "carbon_fact": 465,
+            "CO2e": "g",
+            "barcode": "8858709100154",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "นมปรุงแต่งพาสเจอร์ไรส์ รสข้าวโพด 1200 มิลลิลิตร",
+            "carbon_fact": 2.1,
+            "CO2e": "kg",
+            "barcode": "8858709100147",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "นมปรุงแต่งพาสเจอร์ไรส์รสกล้วยหอม 200 มิลลิลิตร",
+            "carbon_fact": 467,
+            "CO2e": "g",
+            "barcode": "8858709103421",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "นมปรุงแต่งพาสเจอร์ไรส์ รสบัตเตอร์สก๊อต 200 มิลลิลิตร",
+            "carbon_fact": 416,
+            "CO2e": "g",
+            "barcode": "8858709100970",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "นมปรุงแต่งพาสเจอร์ไรส์ รสช็อกโกแลต 200 มิลลิลิตร",
+            "carbon_fact": 442,
+            "CO2e": "g",
+            "barcode": "8858709100055",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "นมปรุงแต่งพาสเจอร์ไรส์ รสช็อกโกแลต1,200 มิลลิลิตร",
+            "carbon_fact": 2.5,
+            "CO2e": "kg",
+            "barcode": "8858709100130",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "นมปรุงแต่งพาสเจอร์ไรส์ รสข้าวโพด 200 มิลลิลิตร",
+            "carbon_fact": 377,
+            "CO2e": "g",
+            "barcode": "8858709100062",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "นมสดพาสเจอร์ไรส์ 1200 มิลลิลิตร",
+            "carbon_fact": 2.6,
+            "CO2e": "kg",
+            "barcode": "8858709107412",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "นมปรุงแต่งพาสเจอร์ไรส์ กลิ่นสตรอเบอร์รี่ 1200 มิลลิลิตร",
+            "carbon_fact": 2.7,
+            "CO2e": "kg",
+            "barcode": "8858709100123",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "โยเกิร์ตรสธรรมชาติ 130 มิลลิลิตร",
+            "carbon_fact": 236,
+            "CO2e": "g",
+            "barcode": "8858709100253",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "โยเกิร์ตผสมวุ้นมะพร้าว 130 มิลลิลิตร",
+            "carbon_fact": 207,
+            "CO2e": "g",
+            "barcode": "8858709100321",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "โยเกิร์ตผสมมัลเบอร์รี่ 130 มิลลิลิตร",
+            "carbon_fact": 226,
+            "CO2e": "g",
+            "barcode": "8858709101342",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "โยเกิร์ตผสมลูกพรุน 130 มิลลิลิตร",
+            "carbon_fact": 230,
+            "CO2e": "g",
+            "barcode": "8858709100345",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "ลำไยอบกรอบ 1 ซอง ขนาด 22 กรัม",
+            "carbon_fact": 458,
+            "CO2e": "g",
+            "barcode": "8858885799999",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "นมปรุงแต่งรสช็อคโกแล็ตพาสเจอร์ไรส์ 450 cc.",
+            "carbon_fact": 824,
+            "CO2e": "g",
+            "barcode": "8850329145317",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "Pasteurized Milk Fresh 200 cc.",
+            "carbon_fact": 533,
+            "CO2e": "g",
+            "barcode": "8850329120116",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "นมมันเนย 4.3% พาสเจอร์ไรส์ 946 cc.",
+            "carbon_fact": 2.1,
+            "CO2e": "kg",
+            "barcode": "8850329183715",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "นมสดพร่องมันเนยพาสเจอร์ไรส์ 2000 cc.",
+            "carbon_fact": 4.5,
+            "CO2e": "kg",
+            "barcode": "8850329102419",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "นมขาดมันเนยพาสเจอร์ไรส์ 830 cc.",
+            "carbon_fact": 2,
+            "CO2e": "kg",
+            "barcode": "8850329183814",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "นมเปรี้ยวไพเกน 180 cc.",
+            "carbon_fact": 454,
+            "CO2e": "g",
+            "barcode": "8850329441068",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "โยเกิร์ตผสมมิกซ์เบอร์รี่ 140 g.",
+            "carbon_fact": 369,
+            "CO2e": "g",
+            "barcode": "8850329315161",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "โยเกิร์ตผสมวุ้นมะพร้าว 140 g.",
+            "carbon_fact": 380,
+            "CO2e": "g",
+            "barcode": "8850329315543",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "โยเกิร์ตผสมสตรอเบอร์รี่ 140 g.",
+            "carbon_fact": 383,
+            "CO2e": "g",
+            "barcode": "8850329315147",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "ขวดแก้ว 1 ขวด น้ำหนัก 450 กรัม ใช้บรรจุน้ำมันรำข้าวผ่านกรรมวิธี 700 มิลลิลิตร",
+            "carbon_fact": 1.8,
+            "CO2e": "kg",
+            "barcode": "8851046018021",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "กาแฟคั่วบดอาราบิก้า 100% สูตร คลาสสิค โรสต์ ตรา ดอยตุง",
+            "carbon_fact": 1.8,
+            "CO2e": "kgCO2e",
+            "barcode": "8855263000975",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "แมคคาเดเมียนัทอบปรุงรส (รสเกลือ) ตรา ดอยตุง บรรจุถุง",
+            "carbon_fact": 0.6,
+            "CO2e": "kgCO2e",
+            "barcode": "8855263000883",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "กาแฟคั่วบดอาราบิก้า 100% สูตร เอสเปรสโซ โรสต์ ตรา ดอยตุง บรรจุถุง 200 กรัม",
+            "carbon_fact": 4,
+            "CO2e": "kg",
+            "barcode": "8855263000982",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "ข้าวหอมมะลิบรรจุถุงตราฉัตร",
+            "carbon_fact": 4.8,
+            "CO2e": "kg",
+            "barcode": "8850187000056",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เครื่องดื่มโคคา-โคลา บรรจุกระป๋อง 325 ซีซี",
+            "carbon_fact": 258,
+            "CO2e": "gCO2e",
+            "barcode": "8851959132364",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "กระทิงแดง 150 มิลลิลิตร",
+            "carbon_fact": 178,
+            "CO2e": "gCO2e",
+            "barcode": "205000021534",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เพียวริคุ มิกซ์เบอร์รี่ 350 มิลลิลิตร",
+            "carbon_fact": 238,
+            "CO2e": "gCO2e",
+            "barcode": "8850228001318",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "โซดาสิงห์ บรรจุขวดแก้ว ขนาด 325 มิลลิลิตร",
+            "carbon_fact": 221,
+            "CO2e": "gCO2e",
+            "barcode": "8850999220000",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เบียร์ลีโอ บรรจุขวดแก้ว ขนาด 620 มิลลิลิตร",
+            "carbon_fact": 381,
+            "CO2e": "gCO2e",
+            "barcode": "8850999141008",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เบียร์ช้างคลาสสิก บรรจุขวดแก้ว 620 ลบ.ซม. (ภายในประเทศ)",
+            "carbon_fact": 518,
+            "CO2e": "gCO2e",
+            "barcode": "8851993616011",
+            "cero_earn": 0.1,
+            "label_type": "Gold",
+            "saved_carbon": 0.01036,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำดื่มสิงห์ บรรจุขวด PET ขนาด 600 มิลลิลิตร",
+            "carbon_fact": 111,
+            "CO2e": "gCO2e",
+            "barcode": "8850999321004",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "น้ำดื่มสิงห์ บรรจุขวด PET ขนาด 1500 มิลลิลิตร",
+            "carbon_fact": 191,
+            "CO2e": "gCO2e",
+            "barcode": "8850999320007",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เพอร์ร่า น้ำแร่ธรรมชาติ 100% บรรจุขวด PET ขนาด 330 มิลลิลิตร",
+            "carbon_fact": 93.2,
+            "CO2e": "gCO2e",
+            "barcode": "8850999001425",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เพอร์ร่า น้ำแร่ธรรมชาติ 100% บรรจุขวด PET ขนาด 600 มิลลิลิตร",
+            "carbon_fact": 112,
+            "CO2e": "gCO2e",
+            "barcode": "850999001449",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เพอร์ร่า น้ำแร่ธรรมชาติ 100% บรรจุขวด PET ขนาด 1500 มิลลิลิตร",
+            "carbon_fact": 204,
+            "CO2e": "gCO2e",
+            "barcode": "8850999001463",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เบียร์ลีโอบรรจุกระป๋อง ขนาด 490 มิลลิลิตร",
+            "carbon_fact": 206,
+            "CO2e": "gCO2e",
+            "barcode": "8850999016443",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เบียร์ลีโอบรรจุกระป๋อง ขนาด 490 มิลลิลิตร",
+            "carbon_fact": 206,
+            "CO2e": "gCO2e",
+            "barcode": "8850999009674",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เบียร์ลีโอบรรจุกระป๋อง ขนาด 320 มิลลิลิตร",
+            "carbon_fact": 123,
+            "CO2e": "gCO2e",
+            "barcode": "8850999143002",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เครื่องดื่มน้ำนมข้าวกล้องหอมมะลิออร์แกนิก ไม่เติมน้ำตาล ขนาด 180 มิลลิลิตร ตราฟอร์แคร์บาลานซ์",
+            "carbon_fact": 171,
+            "CO2e": "gCO2e",
+            "barcode": "8857072000467",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เครื่องดื่มน้ำนมข้าวกล้องหอมมะลิออร์แกนิก รสวานิลลา ขนาด 180 มิลลิลิตร ตราฟอร์แคร์บาลานซ์",
+            "carbon_fact": 181,
+            "CO2e": "gCO2e",
+            "barcode": "8857072000481",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เครื่องดื่มน้ำนมข้าวไรซ์เบอร์รี่ออร์แกนิก ขนาด 180 มิลลิลิตร ตราฟอร์แคร์บาลานซ์",
+            "carbon_fact": 178,
+            "CO2e": "gCO2e",
+            "barcode": "8857072000214",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เครื่องดื่มธัญญาหาร น้ำจมูกข้าวกล้องหอมมะลิผสมน้ำจมูกข้าวสาลีและน้ำข้าวโอ๊ต รสดาร์กช็อกโกแลต ขนาด 180 มิลลิลิตร ตราฟอร์แคร์บาลานซ์",
+            "carbon_fact": 175,
+            "CO2e": "gCO2e",
+            "barcode": "8857072000245",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เครื่องดื่มธัญญาหาร น้ำจมูกข้าวกล้องหอมมะลิผสมน้ำจมูกข้าวสาลีและน้ำข้าวโอ๊ต ขนาด 180 มิลลิลิตร ตราฟอร์แคร์บาลานซ์",
+            "carbon_fact": 174,
+            "CO2e": "gCO2e",
+            "barcode": "8857072000184",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เทสตี้ฟิตฟอร์บาริสต้า (ผลิตภัณฑ์สำหรับเติมเครื่องดื่ม) ขนาด 1,000 มิลลิลิตร ตราเทสตี้ฟิต",
+            "carbon_fact": 722,
+            "CO2e": "gCO2e",
+            "barcode": "8857072000887",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เครื่องดื่มดาร์กช็อกโกแลตปรุงสำเร็จชนิดผงผสมคาเคา น้ำหนักสุทธิ 20 กรัม ตราฟอร์แคร์บาลานซ์",
+            "carbon_fact": 90.4,
+            "CO2e": "gCO2e",
+            "barcode": "8857072000870",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เครื่องดื่มน้ำอัดลม เอส โคล่า บรรจุกระป๋อง ขนาด 250 มิลลิลิตร (โรงงานปทุมธานี)",
+            "carbon_fact": 159,
+            "CO2e": "gCO2e",
+            "barcode": "8851952101312",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เครื่องดื่มน้ำอัดลม เอส เพลย์ กลิ่นส้ม บรรจุกระป๋อง ขนาด 250 มิลลิลิตร (โรงงานปทุมธานี)",
+            "carbon_fact": 143,
+            "CO2e": "gCO2e",
+            "barcode": "8851952120313",
+            "cero_earn": 0.03,
+            "label_type": "Gold",
+            "saved_carbon": 0.00286,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เครื่องดื่มน้ำอัดลม เอส เพลย์ กลิ่นสตรอว์เบอร์รี่ บรรจุกระป๋อง ขนาด 250 มิลลิลิตร (โรงงานปทุมธานี)",
+            "carbon_fact": 143,
+            "CO2e": "gCO2e",
+            "barcode": "8851952122317",
+            "cero_earn": 0.03,
+            "label_type": "Gold",
+            "saved_carbon": 0.00286,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เครื่องดื่มน้ำอัดลม เอส เพลย์ กลิ่นครีมโซดา บรรจุกระป๋อง ขนาด 250 มิลลิลิตร (โรงงานปทุมธานี)",
+            "carbon_fact": 150,
+            "CO2e": "gCO2e",
+            "barcode": "8851952121310",
+            "cero_earn": 0.03,
+            "label_type": "Gold",
+            "saved_carbon": 0.003,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เครื่องดื่มน้ำอัดลม เอส เพลย์ กลิ่นเกรปเบอร์รี่ บรรจุกระป๋อง ขนาด 250 มิลลิลิตร (โรงงานปทุมธานี)",
+            "carbon_fact": 150,
+            "CO2e": "gCO2e",
+            "barcode": "8851952124311",
+            "cero_earn": 0.03,
+            "label_type": "Gold",
+            "saved_carbon": 0.003,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เครื่องดื่มน้ำอัดลม เอส เพลย์ กลิ่นเลมอนไลม์ บรรจุกระป๋อง ขนาด 250 มิลลิลิตร (โรงงานปทุมธานี)",
+            "carbon_fact": 146,
+            "CO2e": "gCO2e",
+            "barcode": "8851952110314",
+            "cero_earn": 0.03,
+            "label_type": "Gold",
+            "saved_carbon": 0.00292,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เครื่องดื่มน้ำอัดลม เอส โคล่า บรรจุขวดแก้ว CoolHand ขนาด 250 มิลลิลิตร (โรงงานปทุมธานี)",
+            "carbon_fact": 238,
+            "CO2e": "gCO2e",
+            "barcode": "8851952101312",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เครื่องดื่มให้พลังงาน กระทิงแดง บรรจุขวด 150 มิลลิลิตร",
+            "carbon_fact": 183,
+            "CO2e": "g",
+            "barcode": "8850228000106",
+            "cero_earn": 0.04,
+            "label_type": "Gold",
+            "saved_carbon": 0.00366,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เครื่องดื่มเอส เพลย์ น้ำหวานกลิ่นสตรอเบอร์รี บรรจุขวด PET ขนาด 1.6 ลิตร",
+            "carbon_fact": 626,
+            "CO2e": "gCO2e",
+            "barcode": "8851952115142",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เครื่องดื่มเอส เพลย์ น้ำหวานกลิ่นครีมโซดา บรรจุขวด PET ขนาด 1.6 ลิตร",
+            "carbon_fact": 628,
+            "CO2e": "gCO2e",
+            "barcode": "8851952114145",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เครื่องดื่มจากใบหม่อน บรรจุกล่อง น้ำหนักสุทธิ 37.5 กรัม ตราสินค้า ไทยซิลค์โปรดัคส์ 1 กล่อง",
+            "carbon_fact": 407,
+            "CO2e": "g",
+            "barcode": "21110108",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เครื่องดื่มโคคา-โคลา บรรจุกระป๋อง 325 ซีซี",
+            "carbon_fact": 258,
+            "CO2e": "gCO2e",
+            "barcode": "8851959132364",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เค้กเนยสด (ตรา เอส แอนด์ พี) ขนาด 300 กรัม",
+            "carbon_fact": 2.35,
+            "CO2e": "kgCO2e",
+            "barcode": "8850231000254",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "ถ้วยเกี๊ยวกุ้ง 425 มิลลิลิตร สีดำ พร้อมฝา",
+            "carbon_fact": 113,
+            "CO2e": "g",
+            "barcode": "8851351012400",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "ถ้วยเกี๊ยวกุ้ง 16 ออนซ์ สีขาวขุ่น พร้อมฝา",
+            "carbon_fact": 113,
+            "CO2e": "g",
+            "barcode": "8851351012400",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เจลล้างหน้า แพน คอสเมติก แอนตี้ คอมิโดน โซฟเลส ออยล์ คอนโทรล ขนาดบรรจุ 100 กรัม",
+            "carbon_fact": 723,
+            "CO2e": "g",
+            "barcode": "8853543004033",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "ครีมกันแดด ไมนัส ซัน เฟเชียล ซัน โพรเทคชัน เอสพีเอฟ 40 (ไวท์) ขนาดบรรจุ 25 กรัม",
+            "carbon_fact": 323,
+            "CO2e": "g",
+            "barcode": "8853543004095",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "ครีมกันแดด อิลีเซ่ ซัน โพรเทคชัน เอสพีเอฟ 30 (เนเจอร์รัล เบจ) ขนาดบรรจุ 10 กรัม",
+            "carbon_fact": 207,
+            "CO2e": "g",
+            "barcode": "8850355011723",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "ผลิตภัณฑ์ยาแต้มสิว คลินดา-เอ็ม ขนาดบรรจุ 10 มิลลิลิตร",
+            "carbon_fact": 132,
+            "CO2e": "g",
+            "barcode": "8850355011518",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "ผลิตภัณฑ์ยาแต้มสิว คลินดา-เอ็ม ขนาดบรรจุ 15 มิลลิลิตร",
+            "carbon_fact": 143,
+            "CO2e": "g",
+            "barcode": "8850355011525",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "ครีมกันแดด ไมนัส ซัน เฟเชียล ซัน โพรเทคชัน เอสพีเอฟ 40 (ไอโวรี) ขนาดบรรจุ 25 กรัม",
+            "carbon_fact": 335,
+            "CO2e": "g",
+            "barcode": "8853543004057",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "เจลล้างหน้า แพน คอสเมติก แอนตี้ คอมิโดน โซฟเลส ออยล์ คอนโทรล ขนาดบรรจุ 30 กรัม",
+            "carbon_fact": 316,
+            "CO2e": "g",
+            "barcode": "8850355022453",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "โยเกิร์ตผสมผลไม้รวม 140 g.",
+            "carbon_fact": 394,
+            "CO2e": "g",
+            "barcode": "8850329292387",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "ผลิตภัณฑ์ล้างจานเข้มข้น ไลปอนเอฟ สูตรอนามัย ชนิดเติมขนาด 550 ml",
+            "carbon_fact": 28.9,
+            "CO2e": "gCO2e",
+            "barcode": "8850002905207",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "ผลิตภัณฑ์ล้างจานเข้มข้น ไลปอนเอฟ สูตรอนามัย ชนิดเติมขนาด 850 ml",
+            "carbon_fact": 29.8,
+            "CO2e": "gCO2e",
+            "barcode": "8850002026209",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "ผลิตภัณฑ์ล้างจานเข้มข้น ไลปอนเอฟ เจแปนนีสพีช ชนิดเติมขนาด 500 ml",
+            "carbon_fact": 29,
+            "CO2e": "gCO2e",
+            "barcode": "8850002034365",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "ผลิตภัณฑ์ล้างจานเข้มข้น ไลปอนเอฟ สูตรมะกรูด ชนิดเติมขนาด 800 ml",
+            "carbon_fact": 32.4,
+            "CO2e": "gCO2e",
+            "barcode": "8850002022553",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "ผลิตภัณฑ์ล้างจานโปร สูตรเบอร์รี่ พาวเวอร์ ชนิดเติมขนาด 400 ml",
+            "carbon_fact": 58.4,
+            "CO2e": "gCO2e",
+            "barcode": "8850002032255",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "ผลิตภัณฑ์ล้างจานไลปอนเอฟ สูตรมะกรูดชนิดเติมขนาด 500 ml",
+            "carbon_fact": 36.3,
+            "CO2e": "gCO2e",
+            "barcode": "8850002022577",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "ผลิตภัณฑ์ล้างจาน ไลปอน กลิ่นชามะนาว ชนิดเติมขนาด 500 ml",
+            "carbon_fact": 36,
+            "CO2e": "gCO2e",
+            "barcode": "8850002012509",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "ผลิตภัณฑ์ล้างจานโปร ผสมน้ำมะนาว ชนิดเติมขนาด 400 ml",
+            "carbon_fact": 62.8,
+            "CO2e": "gCO2e",
+            "barcode": "8850002012516",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "ผลิตภัณฑ์ล้างจาน ไลปอนเอฟ ชนิดเติมขนาด 550 ml",
+            "carbon_fact": 30.4,
+            "CO2e": "gCO2e",
+            "barcode": "8850002010109",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "ผลิตภัณฑ์ล้างจาน ไลปอนเอฟ ชนิดเติมขนาด 850 ml",
+            "carbon_fact": 3,
+            "CO2e": "gCO2e",
+            "barcode": "8850002026209",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "กู๊ดอีทส์ซุปทรัฟเฟิลชนิดถ้วย",
+            "carbon_fact": "",
+            "CO2e": "",
+            "barcode": "8858185003666",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "กู๊ดอีทส์ซุปล็อบสเตอร์ชนิดถ้วย",
+            "carbon_fact": "",
+            "CO2e": "",
+            "barcode": "8858185003635",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "กู๊ดอีทส์ซุปทรัฟเฟิลชนิดกล่องบรรจุ3ซอง",
+            "carbon_fact": "",
+            "CO2e": "",
+            "barcode": "8858185003673",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        },
+        {
+            "product_name": "กู๊ดอีทส์ซุปล็อบสเตอร์ชนิดกล่องบรรจุ3ซอง",
+            "carbon_fact": "",
+            "CO2e": "",
+            "barcode": "8858185003642",
+            "cero_earn": 0.01,
+            "label_type": "Silver",
+            "saved_carbon": 0.001,
+            "saving_units": "kgCO2e"
+        }
+    ],
+"mock_up":[{"c02_weight":0.1,
+"factor":0.001
+}]}
