@@ -59,6 +59,6 @@ jobs:
          username: ${{ secrets.USERNAME }}
          password: ${{ secrets.PASSWORD }}
          script: |
-              docker pull vekawspocregistry.azurecr.io/poc-ml:latest
+              docker build -f ./deployment/Dockerfile.dev -t vekawspocregistry.azurecr.io/poc-ml:latest .
               docker run -d vekawspocregistry.azurecr.io/poc-ml:latest
               docker ps -a
