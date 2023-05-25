@@ -1,5 +1,21 @@
 FROM python:3.8.1-slim
-
+ARG ADMIN_USERNAME \
+    ADMIN_PASSWORD \
+    DB_HOST \
+    DB_NAME \
+    DB_USER \
+    DB_PASSWORD \
+    DB_PORT \
+    SAS_TOKEN \
+ENV ADMIN_USERNAME=$ADMIN_USERNAME \
+    ADMIN_PASSWORD=$ADMIN_PASSWORD \
+    DB_HOST=$DB_HOST \
+    DB_NAME=$DB_NAME \
+    DB_USER=$DB_USER \
+    DB_PASSWORD=$DB_PASSWORD \
+    DB_PORT=$DB_PORT \ 
+    SAS_TOKEN=$SAS_TOKEN \
+    
 RUN apt-get update
 RUN apt-get install -y software-properties-common
 
