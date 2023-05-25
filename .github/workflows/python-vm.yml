@@ -61,5 +61,5 @@ jobs:
          password: ${{ secrets.PASSWORD }}
          script: |
               docker build -f ./deployment/Dockerfile.dev -t vekawspocregistry.azurecr.io/poc-ml:latest .
-              docker run -d vekawspocregistry.azurecr.io/poc-ml:latest
+              docker run --net poc-ml -d vekawspocregistry.azurecr.io/poc-ml:latest
               docker ps -a
